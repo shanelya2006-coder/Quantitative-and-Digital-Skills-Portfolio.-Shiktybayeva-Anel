@@ -1,3 +1,0 @@
-﻿Week02 Day2 Tabulation and Graphs 
-Skills Paragraph
-This project utilized basic quantitative and numerical data analysis skills. This included preparing and structuring a survey dataset, tabulating respondent responses, and calculating basic descriptive statistics. Spreadsheet tools were used to create graphs to visualize the distribution of responses and identify general trends in the data. This project demonstrates the ability to work with real survey data, transform it into a structured form, and present the results in a clear analytical format.
